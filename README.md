@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Olá! Em breve colocarei algumas estatísticas aqui, certo? Até já! See ya! 👋
 
 <!--
 **tiagorodriguesdev/tiagorodriguesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
