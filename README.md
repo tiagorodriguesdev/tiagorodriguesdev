@@ -6,7 +6,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiagorodriguesdev&theme=dark)](https://git.io/streak-stats)
 
 
-##### 👨‍💻 Programming and markup languages
+#### 👨‍💻 Programming and markup languages
 <p align="left">
    <a href="https://github.com/search?q=user%3Atiagorodriguesdev+language%3Atypescript&type=code"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Atiagorodriguesdev+language%3Ajavascript&type=code"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
@@ -17,7 +17,7 @@
 </p>
 
 
-##### <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"><img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"></g-emoji> Frameworks, Plataforms and Libraries
+#### 📚 Frameworks, Plataforms and Libraries
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,11 +27,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-##### <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png"><img class="emoji" alt="balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png"></g-emoji> Cloud Providers and Network Management
+#### <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png"><img class="emoji" alt="balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png"></g-emoji> Cloud Providers and Network Management
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-##### ⚙️ Version Control
+#### ⚙️ Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
