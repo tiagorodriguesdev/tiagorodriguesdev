@@ -2,7 +2,7 @@
 
 #### Hello, I'm Tiago Rodrigues and I am a full stack developer. I develop codes and myself too every day
 
-[![Tiago Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorodriguesdev&theme=dark&show_icons=true)](https://github.com/tiagorodriguesdev/github-readme-stats)
+[![Tiago Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorodriguesdev&theme=dark&show_icons=true)]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiagorodriguesdev&theme=dark)](https://git.io/streak-stats)
 
 
