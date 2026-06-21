@@ -49,6 +49,29 @@
 
 ---
 
+## Elixir (posthog-elixir SDK)
+
+> Repo: [PostHog/posthog-elixir](https://github.com/PostHog/posthog-elixir)
+
+| # | Issue | LOE | Language | Notes |
+|---|-------|-----|----------|-------|
+| [#29](https://github.com/PostHog/posthog-elixir/issues/29) | Telemetry integrations for Phoenix and Phoenix LiveView | **M** | Elixir | Use Phoenix/LiveView telemetry events to auto-capture page_view etc. 4 reactions. |
+| [#66](https://github.com/PostHog/posthog-elixir/issues/66) | Autocapture for Phoenix LiveView | **M** | Elixir | `on_mount` hook to auto-capture `handle_event/3` calls. Issue has full working code proposal. |
+| [#78](https://github.com/PostHog/posthog-elixir/issues/78) | Log support for Elixir SDK | **M–L** | Elixir | Integrate PostHog Logs product natively (currently requires manual OTel setup). |
+
+### Cross-SDK issues that include Elixir (main repo)
+
+| # | Issue | LOE | Language | Notes |
+|---|-------|-----|----------|-------|
+| [#635](https://github.com/PostHog/posthog/issues/635) | Add `page` function to all libraries *(good first issue)* | **S** | Elixir | Implement missing `page` capture method in the Elixir SDK. |
+| [#48234](https://github.com/PostHog/posthog/issues/48234) | Normalize various behaviors across SDKs | **M** | Elixir | Align Elixir SDK behavior with other SDKs per spec. |
+
+### Best Elixir Pick
+
+**[#66](https://github.com/PostHog/posthog-elixir/issues/66) — Autocapture for Phoenix LiveView** is the standout: it's well-scoped, has a full working implementation proposal in the issue body, and solves a real pain point for Phoenix apps. The community member who filed it is actively looking to collaborate.
+
+---
+
 ## Top Picks by Effort Level
 
 ### Quick Wins (S — 1–3 days)
