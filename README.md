@@ -2,7 +2,7 @@
 
 Language-agnostic software engineer.
 
-📍 Fortaleza, CE, Brazil
+📍 Brazil
 
 ---
 
