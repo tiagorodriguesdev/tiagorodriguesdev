@@ -8,9 +8,9 @@ Language-agnostic software engineer.
 
 ### Stack
 
-**Languages** — Elixir · TypeScript · JavaScript · SQL · PHP
+**Languages** — Python · Elixir · TypeScript · JavaScript · SQL · PHP
 
-**Backend** — Phoenix · Ecto · Oban · OTP/GenServer · Node.js
+**Backend** — React · Phoenix · Ecto · Oban · OTP/GenServer · Node.js
 
 **Frontend** — Phoenix LiveView · JS Hooks · Tailwind CSS
 
